@@ -113,9 +113,10 @@
 	position: absolute;
 	left: 120%;
 	top: 50%;
-	height: 22px;
+	height: auto;
+	width: 50px;
 	line-height: 22px;
-	font-size: 12px;
+	font-size: 15px;
 	color: #ffffff;
 	font-weight: 300;
 	background: #181818;
